@@ -18,7 +18,7 @@ const IndexPage = () => (
     <br></br>
 
       <p>App I am working on:</p>
-      <iframe src="http://edhub.co" width="375" height="667"></iframe>
+      <iframe src="https://edhub.co" width="375" height="667"></iframe>
 
     <br></br>
 
